@@ -1,3 +1,5 @@
+// About scope
+
 let university = "Uttara University";
 
 function showUniversity() {
